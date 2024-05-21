@@ -4,4 +4,6 @@ h1 {
 }
 p {
     color: aqua;
+    font-size: 2rem;
+    letter-spacing: 2px;
 }
